@@ -28,7 +28,7 @@
 
    <body>
 	
-		<h1>Loose Search</h1>
+		<h1>Loose Search123</h1>
 		
 		<input type="text" onKeyUp="doSearch();" id="searchBox" />
 	
